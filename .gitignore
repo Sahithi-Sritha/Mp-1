@@ -1,0 +1,6 @@
+student_resource/
+__MACOSX/
+*.tsv
+*.zip
+__pycache__/
+*.pyc
